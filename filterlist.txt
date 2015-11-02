@@ -320,6 +320,7 @@
 ###gld_cookie_flag
 ###global-cookie-message
 ###gn-cookie-accept
+###golem-cookie-accept
 ###have-a-cookie
 ###hi-cookie-box
 ###hr_cookie_policy_message
